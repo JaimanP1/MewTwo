@@ -5,8 +5,6 @@ A fast, interpretable and theory-inspired application of neural networks
 ## Contributors
 
 - Jaiman Parekh
-- Kevin Steiger
-- Mark Nyevgen
 
 ## Explanation
 
